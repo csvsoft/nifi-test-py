@@ -1,4 +1,9 @@
-print("Hello, world!")
+# Install nipyapi:
+#
+# pip install nipyapi
+#
+# Document: https://nipyapi.readthedocs.io/en/latest/readme.html
+#
 import nipyapi
 def main():
     nipyapi.config.nifi_config.host = "http://35.231.236.230:8080/nifi-api"
