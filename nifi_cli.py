@@ -1,7 +1,10 @@
 #
-#  Click
+#
 # pip install click
 # pip install colorama
+# pip install nipyapi
+# pip install prompt_toolkit
+
 #
 from prompt_toolkit import prompt
 import nipyapi
